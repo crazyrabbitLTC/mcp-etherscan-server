@@ -1,5 +1,5 @@
 {
-  "name": "etherscan-server",
+  "name": "mcp-etherscan-server",
   "version": "1.0.0",
   "description": "A TypeScript server boilerplate",
   "type": "module",
